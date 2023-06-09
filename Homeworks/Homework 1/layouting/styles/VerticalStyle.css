@@ -1,0 +1,30 @@
+.rectangle1 {
+    height: 120px;
+    width: 100%;
+    background-color: #006500;
+  }
+  .rectangle2 {
+    margin-top: 15px;
+    height: 380px;
+    width: 100%;
+    background-color: #00d100;
+  }
+  .rectangle3 {
+    margin-top: 15px;
+    height: 50px;
+    width: 100%;
+    background-color: #8d0085;
+  }
+  .rectangle4 {
+    margin-top: 15px;
+    height: 50px;
+    width: 100%;
+    background-color: #0900ff;
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    gap:25px; 
+  }
